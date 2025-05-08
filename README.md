@@ -51,5 +51,6 @@ Extends the original **CatalogsVAE** project to:
 
 * Almudena Cobo-Urios
 * Álvaro Silva-Vilela-Caridade
+
   (Tutor: Prof. Joseph Morlier)
-  (Assistance from Shantanu Serpa)
+  (Assistance from Shantanu SAPRE)
